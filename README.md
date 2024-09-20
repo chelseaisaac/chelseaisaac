@@ -9,14 +9,11 @@ I am a former Electrical Engineer, now **Technical Specialist** with over 6 year
 
 🛠️ **Technical Skills**
 - **Cloud Platforms**: AWS (Cloud Practitioner Certified), Azure (Fundamentals Certified)
+- **Cloud Orchestration**: Kubernetes, Docker
 - **Networking**: Network Security, IBM z/OS, SMC, TLS
 - **Programming**: Python, JavaScript, HTML/CSS
-- I'm currently learning AI and Machine Learning.
-- I'm currently working on cloud projects. 
-
-📊 **Visualization and Communication**
-
-Visualizing complex architectures is key to effective communication. I use tools like **Lucidchart** and **draw.io** to create clear and informative diagrams of cloud architectures and network setups. This not only helps in internal understanding but also plays a crucial role in communicating with stakeholders and ensuring project success.
+- **AI/ML**: NVIDIA AI Enterprise Tools (TensorRT, Triton Inference Server), PyTorch, Hugging Face
+- I'm currently working on cloud & AI projects. 
 
 🎯 **Current Role**
 
