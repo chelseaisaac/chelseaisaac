@@ -5,7 +5,7 @@ I am a former Electrical Engineer, now **Senior Solutions Architect** with over 
 🌐 **What I Do**
 - **Cloud & AI**: I am developing an expertise of Kubernetes for training AI models and inference in the cloud. My work includes leading technical discussions, architecting solutions for enterprises and startups, and assisting customers with the successful implementation of their AI use case.
 
-- **Technical Leadership and Consulting**: I’ve led multiple client workshops, including sessions on securing and encrypting network traffic, which have contributed to significant business outcomes. My role often involves acting as a trusted technical advisor, ensuring that clients achieve their business goals with the technologies I help deploy.
+- **Technical Leadership and Consulting**: In the past, I’ve led client workshops which have contributed to significant business outcomes. My role often involves acting as a trusted technical advisor, ensuring that clients achieve their business goals with the technologies I help deploy.
 
 🛠️ **Technical Skills**
 - **Cloud Platforms**: AWS (Solutions Architect-Associate Certified), Azure (Fundamentals Certified)
