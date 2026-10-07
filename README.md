@@ -1,26 +1,29 @@
 <h1>Hi there! 👋 My name is Chelsea.</h2> 
 
-I am a former Electrical Engineer, now **Senior Solutions Architect** with over 6 years of experience in technical roles, including technical sales and pivotal projects in the energy industry. I specialize in networking, cloud computing, and AI with a strong focus on customer success and technical consulting. 
+I'm a former Electrical Engineer, now a Senior Solutions Architect with 10 years of experience across data center and electrical systems operations, enterprise technical sales, and AI infrastructure. I work on power-aware AI factory infrastructure — helping cloud providers and ISVs deploy more compute within fixed power budgets.
 
-🌐 **What I Do**
-- **Cloud & AI**: I am developing an expertise of Kubernetes for training AI models and inference in the cloud. My work includes leading technical discussions, architecting solutions for enterprises and startups, and assisting customers with the successful implementation of their AI use case.
+## 🌐 What I Do
 
-- **Technical Leadership and Consulting**: In the past, I’ve led client workshops which have contributed to significant business outcomes. My role often involves acting as a trusted technical advisor, ensuring that clients achieve their business goals with the technologies I help deploy.
+- **Power-Aware AI Infrastructure:** Field solutions architect on power-management proofs-of-concept for GPU clusters — validating Redfish/BMC power telemetry, deploying power control planes on Kubernetes, and bridging the gap between facilities and IT teams that most datacenter software assumes away.
+- **Cloud & AI:** Kubernetes for distributed training and inference. I architect solutions for cloud providers and ISVs, lead technical discussions, and support customers through implementation.
+- **Technical Leadership & Consulting:** Client workshops, SA enablement content, and documentation contributions. I act as a trusted technical advisor and route field findings back into product and engineering.
 
-🛠️ **Technical Skills**
-- **Cloud Platforms**: AWS (Solutions Architect-Associate Certified), Azure (Fundamentals Certified)
-- **Cloud Orchestration**: Kubernetes, Docker
-- **Networking**: Network Security, IBM z/OS, SMC, TLS
-- **Programming**: Python, JavaScript, HTML/CSS
-- **AI/ML**: NVIDIA AI Enterprise Tools (TensorRT, Triton Inference Server), PyTorch, Hugging Face, Run:ai
-- I'm currently working on cloud & AI projects. 
+## 🛠️ Technical Skills
 
-🎯 **Current Role**
+- **Cloud Platforms:** AWS (Solutions Architect – Associate), Azure (Fundamentals), GCP
+- **Orchestration:** Kubernetes, Docker, Helm, Slurm
+- **Infrastructure:** Redfish/BMC telemetry, GPU cluster deployment, datacenter electrical systems
+- **Networking:** Network security, InfiniBand, RDMA, TLS
+- **Programming:** Python, JavaScript, HTML/CSS
+- **AI/ML:** PyTorch, Terraform, Run:ai, AIPerf
 
-Currently, I am working with **NVIDIA**, helping clients architect their AI use cases and innovations in the cloud. My focus is on enhancing the client experience by providing technical expertise and driving the adoption of advanced technologies.
+## 🎯 Current Role
 
-📫 **Let's Connect**
-- **LinkedIn**: Chelsea Jean-Mary Isaac
+Senior Solutions Architect at NVIDIA working on power management for AI factories — helping cloud providers and ISVs get more compute out of the power they already have.
+
+## 📫 Let's Connect
+
+- LinkedIn: [Chelsea Jean-Mary Isaac](https://www.linkedin.com/in/chelseajeanmary)
 
 <!---
 chelsjean614-2/chelsjean614-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
